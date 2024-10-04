@@ -61,6 +61,14 @@
                             <div class="container">
 
                                 <div class="row" data-aos="fade-up">
+                                    <div class="col-md-4 d-flex align-items-stretch justify-content-center mb-5" data-toggle="modal" data-target="#gani">
+                                        <div class="icon-box text-center w-100 hover" onclick="" data-aos="fade-up" data-aos-delay="300">
+                                          <img src="{{asset('images/Profile_pG.jpg')}}" alt="" class="circle" style="border-radius:50%; object-fit:cover">
+                                          <h4 class="description mt-3"><strong>Darsuki Gani</strong></h4>
+                                          <p class="description">Komisaris Utama</p>
+                                        </div>
+                                      </div>
+
                                     <div class="col-md-4 d-flex align-items-stretch justify-content-center mb-5"
                                         data-toggle="modal" data-target="#yosep">
                                         <div class="icon-box text-center w-100 hover" onclick="" data-aos="fade-up"
